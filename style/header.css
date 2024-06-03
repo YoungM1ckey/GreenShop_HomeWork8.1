@@ -1,0 +1,131 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 30px;
+  border-bottom: 0.3px solid #46A35880;
+}
+
+.logo {
+  /* display: inline-block; */
+  vertical-align: top;
+  /* margin-right: 229px; */
+}
+
+/* .imglogo {
+  display: block;
+} */
+
+.navigation-header {
+  /* display: inline-block; */
+  vertical-align: top;
+  margin-top: 8px;
+}
+
+.link-nav {
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #3D3D3D;
+  margin-right: 50px;
+  display: inline-block;
+}
+
+.active-link-nav {
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #3D3D3D;
+  padding-bottom: 25px;
+  border-bottom: 3px solid #46A358 ;
+}
+
+.link-nav:last-child {
+  margin-right: 0;
+}
+
+.button-login {
+  float: right;
+  vertical-align: middle;
+  width: 100px;
+  height: 35px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #FFFFFF;
+  background-color: #46A358;
+  border: none;
+  border-radius: 6px;
+}
+
+.icon-log {
+  vertical-align: top;
+}
+
+.content {
+  background-color: #F5F5F580;
+  margin-top: 12px;
+  display: flex;
+}
+
+.text-contentcont {
+  margin: 0;
+}
+
+.welcome-text {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #3D3D3D;
+  margin-bottom: 7px;
+  margin-left: 3px;
+  text-transform: uppercase;
+  letter-spacing: 1.6px;
+}
+
+.text-title {
+  font-weight: 900;
+  font-size: 70px;
+  line-height: 70px;
+  color: #3D3D3D;
+}
+
+.text-green {
+  font-weight: 900;
+  font-size: 70px;
+  line-height: 70px;
+  color: #46A358;
+}
+
+.text-descr {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  margin: 5px 0 44px 2px;
+}
+
+.link-shop {
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  background-color: #46A358;
+  color: #FFFFFF;
+  border-radius: 6px;
+  display: inline-block;
+  padding: 11px 27px 9px 26px;
+}
+
+.block-left-header {
+  width: 557px;
+  /* display: inline-block; */
+  vertical-align: top;
+  padding-top: 68px;
+  padding-left: 40px;
+}
+
+.image-right-header {
+  display: inline-block;
+  margin-left: 93px;
+}
