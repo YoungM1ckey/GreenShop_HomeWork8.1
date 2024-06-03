@@ -6,17 +6,10 @@
 }
 
 .logo {
-  /* display: inline-block; */
   vertical-align: top;
-  /* margin-right: 229px; */
 }
 
-/* .imglogo {
-  display: block;
-} */
-
 .navigation-header {
-  /* display: inline-block; */
   vertical-align: top;
   margin-top: 8px;
 }
@@ -119,7 +112,6 @@
 
 .block-left-header {
   width: 557px;
-  /* display: inline-block; */
   vertical-align: top;
   padding-top: 68px;
   padding-left: 40px;
