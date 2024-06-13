@@ -9,8 +9,8 @@
 }
 
 .categories {
-  margin-top: 14px;
-  margin-left: 18px;
+  padding-top: 14px;
+  padding-left: 18px;
 }
 
 .title-navigation {
@@ -20,8 +20,8 @@
 }
 
 .block-link-navigation {
-  margin-top: 7px;
-  margin-left: 12px;
+  padding-top: 7px;
+  padding-left: 12px;
 }
 
 .categories-link {
@@ -114,6 +114,7 @@
 .page-block {
   text-align: end;
   display: block;
+  font-size: 0;
 }
 
 .link-page {
